@@ -30,10 +30,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>
-### my repositoriest
-<div>
-<iframe title="my repositoriest" src="https://github.com/cutebear0123?tab=repositoriest"></iframe>
-</div>
 
 
 
