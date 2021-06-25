@@ -23,11 +23,7 @@
 </a>
 </div>
 ## Github Stats  
-
-<div align="center">
-  <img scr="https://github-readme-stats.vercel.app/api?username=cutebear0123"> 
-</div>
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cutebear0123)
 ## Connect with me  
 
 <div align="center">
