@@ -25,7 +25,7 @@
 
 ## Github Stats  
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cutebear0123)
+<div align="center"><img scr="https://github-readme-stats.vercel.app/api?username=cutebear0123"></div>
 
 ## Connect with me  
 
@@ -34,6 +34,5 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>
-
 
 
