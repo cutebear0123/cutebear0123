@@ -25,7 +25,7 @@
 
 ## Github Stats  
 
-<div align="center"><img scr="https://github-readme-stats.vercel.app/api?username=cutebear0123"></div>
+<div align="center"> <img scr="https://github-readme-stats.vercel.app/api?username=cutebear0123"> </div>
 
 ## Connect with me  
 
