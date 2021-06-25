@@ -26,7 +26,7 @@
 ## Github Stats  
 
 <div align="center">
-<p><a href="https://github.com/cutebear0123"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutebear023&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/cutebear0123"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutebear023" alt="Top Langs"></a></p></div>  
 
 ## Connect with me  
 
