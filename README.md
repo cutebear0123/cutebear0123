@@ -26,7 +26,7 @@
 ## Github Stats  
 
 <div align="center">
-  <img scr="https://github-readme-stats.vercel.app/api?username=cutebear0123", alt="github stats" >
+  <img scr= "https://github-readme-stats.vercel.app/api?username=cutebear0123", alt="github stats" >
 </div>
 
 ## Connect with me  
