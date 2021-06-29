@@ -9,11 +9,9 @@
 </div>
 
 ## Other skill:
+![html](https://github.com/cutebear0123/cutebear0123/blob/main/html.jpeg?raw=true)
+![json](https://github.com/cutebear0123/cutebear0123/blob/main/json.gif?raw=true)
 
-<div>
-  <img style="margin: 10px" src="https://github.com/cutebear0123/cutebear0123/blob/main/html.jpeg?raw=true" alt="html" height="50" />  
-  <img style="margin: 10px" src="https://github.com/cutebear0123/cutebear0123/blob/main/json.gif?raw=true" alt="json"height="50" /> 
-</div>
 
 ## Github Stats  
 
