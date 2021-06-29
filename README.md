@@ -3,13 +3,12 @@
 
 ## My python skill:
 
-![flask](https://github.com/cutebear0123/cutebear0123/blob/main/flask.png?raw=true)
-![discord.py](https://raw.githubusercontent.com/cutebear0123/cutebear0123/9b7c393db848715b891f7190f6f158cf6a51be41/discordpy.svg)
+![flask](https://github.com/cutebear0123/cutebear0123/blob/main/flask.png?raw=true | width=50)
+![discord.py](https://raw.githubusercontent.com/cutebear0123/cutebear0123/9b7c393db848715b891f7190f6f158cf6a51be41/discordpy.svg | width=50)
 
 ## Other skill:
-![html](https://github.com/cutebear0123/cutebear0123/blob/main/html.jpeg?raw=true)
-![json](https://github.com/cutebear0123/cutebear0123/blob/main/json.gif?raw=true){width=50%}
-
+![html](https://github.com/cutebear0123/cutebear0123/blob/main/html.jpeg?raw=true | width=50)
+![json](https://github.com/cutebear0123/cutebear0123/blob/main/json.gif?raw=true | width=50)
 
 ## Github Stats  
 
