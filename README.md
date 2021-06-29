@@ -3,14 +3,12 @@
 
 ## My python skill:
 
-<div>
-  <img style="margin: 10px" src="https://github.com/cutebear0123/cutebear0123/blob/main/flask.png?raw=true" alt="flask" height="50" />  
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/cutebear0123/cutebear0123/9b7c393db848715b891f7190f6f158cf6a51be41/discordpy.svg" alt="discord.py"height="50" /> 
-</div>
+![flask](https://github.com/cutebear0123/cutebear0123/blob/main/flask.png?raw=true)
+![discord.py](https://raw.githubusercontent.com/cutebear0123/cutebear0123/9b7c393db848715b891f7190f6f158cf6a51be41/discordpy.svg)
 
 ## Other skill:
 ![html](https://github.com/cutebear0123/cutebear0123/blob/main/html.jpeg?raw=true)
-![json](https://github.com/cutebear0123/cutebear0123/blob/main/json.gif?raw=true)
+![json](https://github.com/cutebear0123/cutebear0123/blob/main/json.gif?raw=true){width=50%}
 
 
 ## Github Stats  
