@@ -5,8 +5,7 @@
 
 <div>
   <img style="margin: 10px" src="https://github.com/cutebear0123/cutebear0123/blob/main/flask.png?raw=true" alt="flask" height="50" />  
-  <a href="https://discordpy.readthedocs.io/en/stable/" target="_blank">
-    <img style="margin: 10px" src="https://raw.githubusercontent.com/cutebear0123/cutebear0123/9b7c393db848715b891f7190f6f158cf6a51be41/discordpy.svg" alt="discord.py"height="50" /> 
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/cutebear0123/cutebear0123/9b7c393db848715b891f7190f6f158cf6a51be41/discordpy.svg" alt="discord.py"height="50" /> 
 </div>
 
 ## Other skill:
