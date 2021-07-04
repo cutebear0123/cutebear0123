@@ -3,7 +3,7 @@
 
 ## My python skill:
 <img src="https://github.com/cutebear0123/cutebear0123/blob/main/flask.png?raw=true" width="80">
-<img src="https://raw.githubusercontent.com/cutebear0123/cutebear0123/9b7c393db848715b891f7190f6f158cf6a51be41/discordpy.svg" width="80">
+<img src="https://raw.githubusercontent.com/cutebear0123/cutebear0123/9b7c393db848715b891f7190f6f158cf6a51be41/discordpy.ico" width="80">
 
 ## Other skill:
 
