@@ -5,9 +5,9 @@
 <img src="https://github.com/cutebear0123/cutebear0123/blob/main/flask.png?raw=true" width="80">
 <img src="https://github.com/cutebear0123/cutebear0123/blob/main/discordpy.svg?raw=true" width="80">
 
-## Other skill:
+<!-- ## Other skill: -->
 
-<img src="https://github.com/cutebear0123/cutebear0123/blob/main/json.gif?raw=true" width="80">
+<!-- <img src="https://github.com/cutebear0123/cutebear0123/blob/main/json.gif?raw=true" width="80"> -->
 
 ## Github Stats  
 
