@@ -5,6 +5,7 @@
 <img src="https://github.com/cutebear0123/cutebear0123/blob/main/flask.png?raw=true" width="80">
 <img src="https://github.com/cutebear0123/cutebear0123/blob/main/discordpy.svg?raw=true" width="80">
 
+![[](https://github-readme-stats.vercel.app/api/top-langs/?username=cutebear0123&layout=compact&hide=html)]()
 <!-- ## Other skill: -->
 
 
