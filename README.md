@@ -3,7 +3,9 @@
 
 ## My python skill:
 <a herf="https://palletsprojects.com/p/flask"><img src="https://github.com/cutebear0123/cutebear0123/blob/main/flask.png?raw=true" width="80"></a>
+
 <a herf="http://discordpy.readthedocs.io/"><img src="https://github.com/cutebear0123/cutebear0123/blob/main/discordpy.svg?raw=true" width="80"></a>
+
 <a href="https://github.com/cutebear0123"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutebear0123&layout=compact&hide=html"></a>
 
 
