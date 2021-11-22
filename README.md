@@ -23,5 +23,5 @@
 
 ## progect
 
-[![discord-database](https://github-readme-stats.vercel.app/api/pin/?username=cutebear0123&repo=discord_database)](https://github.com/cutebear0123/discord_database) [![discord](https://github-readme-stats.vercel.app/api/pin/?username=cutebear0123&repo=discord.py_welcome_gif)](https://github.com/cutebear0123/discord.py_welcome_gif)
+[![discord](https://github-readme-stats.vercel.app/api/pin/?username=cutebear0123&repo=discord.py_welcome_gif)](https://github.com/cutebear0123/discord.py_welcome_gif)
 
