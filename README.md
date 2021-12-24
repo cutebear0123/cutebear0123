@@ -15,4 +15,6 @@
 
 ## progect
 
-[![welcome](https://github-readme-stats.vercel.app/api/pin/?username=cutebear0123&repo=verify)](https://github.com/cutebear0123/verify)
+[![verify](https://github-readme-stats.vercel.app/api/pin/?username=cutebear0123&repo=verify)](https://github.com/cutebear0123/verify)
+
+[![welcome gif](https://github-readme-stats.vercel.app/api/pin/?username=cutebear0123&repo=discord.py_welcome_gif)](https://github.com/cutebear0123/discord.py_welcome_gif)
