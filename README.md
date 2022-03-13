@@ -17,3 +17,6 @@
 
 [![verify](https://github-readme-stats.vercel.app/api/pin/?username=cutebear0123&repo=verify)](https://github.com/cutebear0123/verify)
 [![welcome gif](https://github-readme-stats.vercel.app/api/pin/?username=cutebear0123&repo=discord_welcome_gif)](https://github.com/cutebear0123/discord_welcome_gif)
+
+# discord
+![discord status](https://discord.c99.nl/widget/theme-1/755861933961511074.png)]
